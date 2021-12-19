@@ -1,2 +1,2 @@
 # node_projects
-Git tutorial
+Git tutorial to learn git commands!
